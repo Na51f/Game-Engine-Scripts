@@ -6,6 +6,7 @@ NOTE: All these scripts are free to use and edit.
 
 # Author
 Author: MoonJumpMania
+
 Email: moonjumpmania@gmail.com
 
 # Scripts
