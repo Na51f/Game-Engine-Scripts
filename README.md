@@ -1,8 +1,11 @@
 # Unity-Projects
 Some useful Unity scripts.
+NOTE: All these scripts are free to use and edit. 
+      For any improvements or inquiries, contact my email below.
 
 # Author
-MoonJumpMania
+Author: MoonJumpMania
+Email: moonjumpmania@gmail.com
 
 # Scripts
 
