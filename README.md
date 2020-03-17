@@ -1,4 +1,4 @@
-# Unity-Projects
+# Unity-Scripts
 Some useful Unity scripts.
 
 NOTE: All these scripts are free to use and edit. 
